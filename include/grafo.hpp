@@ -1,6 +1,7 @@
 #ifndef _GRAFO_
 #define _GRAFO_
 
+#include <cstddef>
 #include <vector>
 
 // classe que simboliza um vértice de um grafo
